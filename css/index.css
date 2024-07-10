@@ -1,0 +1,26 @@
+
+.topnav
+{
+    background: blueviolet;
+    width: 80%;
+    margin-top: auto;
+    margin-left: auto;
+}
+
+.topnav a
+{
+    background-color: black;
+    align-items: center;
+    color: blue;
+}
+
+.test video
+{
+    width: 40%;
+}
+
+
+.test p
+{
+    font-size: 30px;
+}
